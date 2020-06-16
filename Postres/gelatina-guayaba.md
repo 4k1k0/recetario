@@ -4,7 +4,7 @@
 
 | Ingrediente | Cantidad |
 |--------|-------------|
-| Guayaba | 10 piezaz |
+| Guayaba | 10 piezas |
 | Leche entera o deslactosada | 1 Litro |
 | Leche condensada | 1 lata |
 | Leche evaporada | 1 lata |
